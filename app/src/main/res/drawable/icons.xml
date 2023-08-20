@@ -1,0 +1,57 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+  <path
+      android:pathData="M-15.19,-17.36h542.37v548.88h-542.37z"
+      android:strokeLineJoin="bevel"
+      android:strokeWidth="1.8"
+      android:fillColor="#55304a"
+      android:strokeColor="#00000000"
+      android:fillType="evenOdd"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M260.01,253.98m-214.83,0a214.83,214.83 0,1 1,429.66 0a214.83,214.83 0,1 1,-429.66 0"
+      android:strokeLineJoin="bevel"
+      android:strokeWidth="1.8"
+      android:fillColor="#d6abc8"
+      android:strokeColor="#00000000"
+      android:fillType="evenOdd"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M259.54,254.45m-188.01,0a188.01,188.01 0,1 1,376.03 0a188.01,188.01 0,1 1,-376.03 0"
+      android:strokeLineJoin="bevel"
+      android:strokeWidth="98.975"
+      android:strokeColor="#00000000"
+      android:fillType="evenOdd"
+      android:strokeLineCap="round">
+    <aapt:attr name="android:fillColor">
+      <gradient 
+          android:centerX="259.54"
+          android:centerY="254.45"
+          android:gradientRadius="188.01"
+          android:type="radial">
+        <item android:offset="0" android:color="#FF995781"/>
+        <item android:offset="1" android:color="#FF7A4368"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+  <path
+      android:pathData="m97.54,136.69 l43.64,193.16 62.55,-97.07 59.51,71.4 21.82,-254.77 -117.56,23.1z"
+      android:strokeLineJoin="bevel"
+      android:strokeWidth="15.3"
+      android:fillColor="#00000000"
+      android:strokeColor="#d8abcb"
+      android:fillType="evenOdd"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="m406.34,120.9 l-86.59,58.95 -51.17,98.35 -11.76,98.43 108.11,-84.64 -9.62,140.67"
+      android:strokeLineJoin="bevel"
+      android:strokeWidth="15.3"
+      android:fillColor="#00000000"
+      android:strokeColor="#d8abcb"
+      android:fillType="evenOdd"
+      android:strokeLineCap="round"/>
+</vector>
